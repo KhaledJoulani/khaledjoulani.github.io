@@ -81,7 +81,8 @@ input:not([type="radio"]):not([type="checkbox"]), select {
 	border-radius: 10px;
 }
 h1, h3, legend {
-	font-family: 'Butcherman', cursive;
+	font-family: 'Monoton', cursive;
+	font-weight: 100;
 }
 
 
